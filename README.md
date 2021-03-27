@@ -1,2 +1,2 @@
-# web-scraper
-Simple Web Scraper 
+# 🌐 Simple Scraper for college site
+
